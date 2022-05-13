@@ -1,6 +1,6 @@
-#Script MAKE By MH MAHIN
+#Script MAKE By MOLLA VAI
 #Script Is Given For Educational Purpose
-#Script Edited By @MAHIN
+#Script Edited By @MOLLA
 #Utf-8 python 
 
 try:
@@ -38,13 +38,10 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 
 logo = """
 
-\033[1;92m.-.   .-.  .--.  .-. .-..-..-. .-.
-|  `.'  | / {} \ | {_} || ||  `| |
-| |\ /| |/  /\  \| { } || || |\  |
-`-' ` `-'`-'  `-'`-' `-'`-'`-' `-'          
+\033[1;92m.MOLLA VAI🙈🙈         
 \n\033[0m----------------------------------
-\033[1;92mAuthor \033[1;93m: MAHIN
-\033[1;92mFb \033[1;93m: MH MAHIN
+\033[1;92mAuthor \033[1;93m: MOLLA
+\033[1;92mFb \033[1;93m: MOLLA
 \033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
 \033[0m----------------------------------
 
